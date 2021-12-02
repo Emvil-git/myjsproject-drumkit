@@ -1,0 +1,116 @@
+body {
+  text-align: center;
+  font-family: "Press Start 2P", cursive;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+p{
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #ffffff;
+  text-shadow: 5px 5px #404be6;
+  background-color: #000000;
+  padding: 30px;
+  margin: 0;
+  margin-top: 75px;
+}
+
+footer {
+  color: #000000;
+}
+
+.set {
+  margin: 5% auto;
+}
+
+.drum {
+  font-family: "Press Start 2P", cursive;
+  outline: none;
+  border: 2px solid #000000;
+  font-size: 1rem;
+  line-height: 2;
+  color: #202020;
+  border-radius: 5px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 5px;
+  margin-bottom: 30px;
+  background-color:#ffffff;
+  transition-duration: 0.1s;
+}
+
+.drum:hover{
+  background-color:#e6e6e6
+}
+
+.w:active {
+  background-color: #ff5959;
+}
+
+.a:active {
+  background-color: #ffae80;
+}
+
+.s:active {
+  background-color: #fffd88;
+}
+
+.d:active {
+  background-color: #7afc96;
+}
+
+.j:active {
+  background-color: #81c1fc;
+}
+
+.k:active {
+  background-color: #8194fc;
+}
+
+.l:active {
+  background-color: #ff8cff;
+}
+
+.w-active {
+  background-color: #ff5959;
+}
+
+.a-active {
+  background-color: #ffae80;
+}
+
+.s-active {
+  background-color: #fffd88;
+}
+
+.d-active {
+  background-color: #7afc96;
+}
+
+.j-active {
+  background-color: #81c1fc;
+}
+
+.k-active {
+  background-color: #8194fc;
+}
+
+.l-active {
+  background-color: #ff8cff;
+}
+
+.drum-icon{
+  width: 75px;
+}
+
+#heart-icon{
+  width: 30px;
+  margin: 0;
+}
